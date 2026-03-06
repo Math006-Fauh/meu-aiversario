@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>meu-aniversario</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <script>
+      // Isto define as cores do M-Pesa e e-Mola para o teu código reconhecer
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              mpesa: "#E61E26",
+              emola: "#F58220",
+            },
+          },
+        },
+      };
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
