@@ -63,7 +63,7 @@ function App() {
             Matusse B-Day Journey 06.03
           </h1>
           <p className="text-lg opacity-90 font-light italic">
-            Khanimambo por vir conhecer a minha história!
+            Khanimambo por vir conhecer a minha história! Meu nome é Eufrásio Pedro Matusse
           </p>
         </header>
 
@@ -72,7 +72,7 @@ function App() {
           <section className="grid md:grid-cols-2 gap-6 mb-16">
             <div className="bg-white p-8 rounded-3xl shadow-md border-t-8 border-red-600 transform hover:scale-105 transition">
               <h3 className="text-red-600 font-black text-xl mb-4">
-                M-PESA 🇲🇿
+                VODACOM 🇲🇿
               </h3>
               <p className="text-3xl font-mono tracking-tighter mb-4">
                 85 389 4337
@@ -90,7 +90,7 @@ function App() {
 
             <div className="bg-white p-8 rounded-3xl shadow-md border-t-8 border-orange-500 transform hover:scale-105 transition">
               <h3 className="text-orange-500 font-black text-xl mb-4">
-                E-MOLA 🇲🇿
+                MOVITEL 🇲🇿
               </h3>
               <p className="text-3xl font-mono tracking-tighter mb-4">
                 86 117 5799
@@ -183,7 +183,7 @@ function App() {
                   HELTON e LAILA MACHADO, pessoas que Deus colocou na minha vida
                   para me ensinar sobre o amor de Deus e a importância de viver
                   uma vida de fé. Sou grato a Deus pela vida do meu grande
-                  discipulador: LENINE CULEMEDZA, homem de Deus que mostrou os
+                  discipulador: LENINE CULEMEDZANA, homem de Deus que mostrou os
                   primeiros passos da minha caminhada cristã, e que me ensinou a
                   importância de buscar a Deus de todo o coração.
                 </p>
