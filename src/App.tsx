@@ -209,7 +209,7 @@ function App() {
                   académicas, profissionais e pessoais. Cada certificado, cada
                   meta batida e cada obstáculo superado. Reconheço que não
                   cheguei até aqui sozinho, e sou grato por cada pessoa que me
-                  apoiou, em especial aos professores ZACARIAS MASSACHE, FILIPE
+                  apoiou, em especial aos professores SIRIO IVO, ZACARIAS MASSACHE, FILIPE
                   VILANCULO, ZACARIAS AIRONE e BENJAMIM GUISSIMONE, professores
                   que acreditaram no meu potencial e me incentivaram a seguir em
                   frente, mesmo quando eu duvidava de mim mesmo. Sou grato
